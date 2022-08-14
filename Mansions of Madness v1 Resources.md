@@ -2,6 +2,14 @@
 
 Based on a summarization of [BoardGameGeek forums](https://boardgamegeek.com/boardgame/83330/mansions-madness).
 
+# :warning: SPOILER WARNING :warning:
+# :warning: SPOILER WARNING :warning:
+
+Errata and spoilers to MoM scenarios continue below.
+
+# :warning: SPOILER WARNING :warning:
+# :warning: SPOILER WARNING :warning:
+
 ## Errata & Revisions
 
 * [(Base) Official Errata and FAQ v2](https://images-cdn.fantasyflightgames.com/ffg_content/mansions-of-madness/support/mansions-faq-v-2.pdf)
