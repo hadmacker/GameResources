@@ -3,12 +3,11 @@
 Based on a summarization of [BoardGameGeek forums](https://boardgamegeek.com/boardgame/83330/mansions-madness).
 
 # :warning: SPOILER WARNING :warning:
-# :warning: SPOILER WARNING :warning:
 
 Errata and spoilers to MoM scenarios continue below.
 
 # :warning: SPOILER WARNING :warning:
-# :warning: SPOILER WARNING :warning:
+
 
 ## Errata & Revisions
 
